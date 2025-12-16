@@ -60,7 +60,7 @@
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/ola-space/Active-Directory-Deployment) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/ola-space/Security-policy-development-Project) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus, Nmap and recon-ng | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
