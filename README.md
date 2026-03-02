@@ -58,7 +58,7 @@
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/ola-space/Building-a-Multi-VM-Cybersecurity-Lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/ola-space/Active-Directory-Deployment) |
 | 03-AWS - AWS IAM Cloud Security Project |  AWS IAM Cloud Security Project | [View Repo](https://github.com/ola-space/AWS-IAM-Cloud-Security-Project-)
-| 04-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 04-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/ola-space/Enumerating-and-escalating-privileges-in-AD) |
 | 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/ola-space/Security-policy-development-Project) |
 | 06-vulnerability-assessment | Network and web-app scanning with Nessus, Nmap and recon-ng | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
 | 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
