@@ -9,7 +9,6 @@
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
-
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
 
@@ -58,18 +57,18 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/ola-space/Building-a-Multi-VM-Cybersecurity-Lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/ola-space/Active-Directory-Deployment) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/ola-space/Security-policy-development-Project) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus, Nmap and recon-ng | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14-AWS - AWS IAM Cloud Security Project |  AWS IAM Cloud Security Project | [View Repo](https://github.com/ola-space/AWS-IAM-Cloud-Security-Project-) |
+| 03-AWS - AWS IAM Cloud Security Project |  AWS IAM Cloud Security Project | [View Repo](https://github.com/ola-space/AWS-IAM-Cloud-Security-Project-)
+| 04-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/ola-space/Security-policy-development-Project) |
+| 06-vulnerability-assessment | Network and web-app scanning with Nessus, Nmap and recon-ng | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
+| 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
 ---
 
