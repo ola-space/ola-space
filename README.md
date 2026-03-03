@@ -82,7 +82,7 @@
 
 > “Cybersecurity is not only a discipline, it is a mindset.”
 
-Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
+Thank you for visiting my GitHub. If this repository helps your work, please consider leaving a star.
 
 
 
