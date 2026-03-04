@@ -63,7 +63,7 @@
 | 06-vulnerability-assessment | Network and web-app scanning with Nessus, Nmap and recon-ng | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
 | 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/ola-space/Security-Onion-and-Splunk-dashboards) |
 | 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/ola-space/-CIA-impact-mapping-and-risk-matrix) |
-| 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/ola-space/ATT-CK-aligned-threat-hunting-scripts) |
+| 09-MITRE -THREAT-HUNT | Threat-Intelligence and Threat-Hunting | [View Repo](https://github.com/ola-space/ATT-CK-aligned-threat-hunting-scripts) |
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/ola-space/Lab-based-phishing-campaign-and-metrics) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/ola-space/Email-header-and-domain-analysis-toolkit) |
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/ola-space/Identifying-world-writable-and-SUID-files) |
