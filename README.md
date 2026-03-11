@@ -61,7 +61,7 @@
 | 04-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/ola-space/Enumerating-and-escalating-privileges-in-AD) |
 | 05-security-policy-dev | Crafting Acceptable use Policies (AUP), password, and Access Control List (ACL) policies | [View Repo](https://github.com/ola-space/Security-policy-development-Project) |
 | 06-MITRE-THREAT-HUNT | Threat-Intelligence and Threat-Hunting | [View Repo](https://github.com/ola-space/ATT-CK-aligned-threat-hunting-scripts) |
-| 07-Passive-vulnerability-assessment | Network and web-app scanning with SpiderFoot, recon-ng... | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
+| 07-Passive-vulnerability-assessment | Network and web-app scanning with SpiderFoot, dnsrecon... | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
 | 08-Active-vulnerability-assessment | Network and web-app scanning with Nmap, Nesssus and Nikto | [View Repo](https://github.com/ola-space/active-vulnerability-assessment) |
 | 09-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/ola-space/Security-Onion-and-Splunk-dashboards) |
 | 10-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/ola-space/-CIA-impact-mapping-and-risk-matrix) |
