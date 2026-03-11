@@ -60,15 +60,16 @@
 | 03-AWS - AWS IAM Cloud Security Project |  AWS IAM Cloud Security Project | [View Repo](https://github.com/ola-space/AWS-IAM-Cloud-Security-Project-)
 | 04-AD-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/ola-space/Enumerating-and-escalating-privileges-in-AD) |
 | 05-security-policy-dev | Crafting Acceptable use Policies (AUP), password, and Access Control List (ACL) policies | [View Repo](https://github.com/ola-space/Security-policy-development-Project) |
-| 06-MITRE -THREAT-HUNT | Threat-Intelligence and Threat-Hunting | [View Repo](https://github.com/ola-space/ATT-CK-aligned-threat-hunting-scripts) |
-| 07-vulnerability-assessment | Network and web-app scanning with Nessus, Nmap and recon-ng | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
-| 08-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/ola-space/Security-Onion-and-Splunk-dashboards) |
-| 09-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/ola-space/-CIA-impact-mapping-and-risk-matrix) |
-| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/ola-space/Lab-based-phishing-campaign-and-metrics) |
-| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/ola-space/Email-header-and-domain-analysis-toolkit) |
-| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/ola-space/Identifying-world-writable-and-SUID-files) |
-| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/ola-space/-SQLi-exploitation-and-DDoS-alert-tuning) |
-| 14-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/ola-space/Static-and-dynamic-malware-triage) |
+| 06-MITRE-THREAT-HUNT | Threat-Intelligence and Threat-Hunting | [View Repo](https://github.com/ola-space/ATT-CK-aligned-threat-hunting-scripts) |
+| 07-Passive-vulnerability-assessment | Network and web-app scanning with Nmap and recon-ng | [View Repo](https://github.com/ola-space/05-vulnerability-assessment) |
+| 08-Active-vulnerability-assessment | Network and web-app scanning with Nmap, Nesssus and Nikto | [View Repo](#) |
+| 09-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/ola-space/Security-Onion-and-Splunk-dashboards) |
+| 10-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/ola-space/-CIA-impact-mapping-and-risk-matrix) |
+| 11-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/ola-space/Lab-based-phishing-campaign-and-metrics) |
+| 12-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/ola-space/Email-header-and-domain-analysis-toolkit) |
+| 13-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/ola-space/Identifying-world-writable-and-SUID-files) |
+| 14-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/ola-space/-SQLi-exploitation-and-DDoS-alert-tuning) |
+| 15-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/ola-space/Static-and-dynamic-malware-triage) |
 
 ---
 
