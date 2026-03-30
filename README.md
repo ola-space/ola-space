@@ -70,7 +70,7 @@
 | 13-Phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/ola-space/Email-header-and-domain-analysis-toolkit) |
 | 14-Linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/ola-space/Identifying-world-writable-and-SUID-files) |
 | 15-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/ola-space/-SQLi-exploitation-and-DDoS-alert-tuning) |
-| 16-Malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/ola-space/Static-and-dynamic-malware-triage) |
+| 16-Malware-analysis | Malware creation, Static and dynamic malware triage | [View Repo](https://github.com/ola-space/Static-and-dynamic-malware-triage) |
 
 ---
 
